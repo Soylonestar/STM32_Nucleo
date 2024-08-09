@@ -1,5 +1,6 @@
 # STM32_Nucleo
 
+8/8/2024 <br/>
 Hare helpful websites for the Nucleo-F411RE board: <br/>
 [STM32 Nucleo-64 boards Data brief](https://www.st.com/content/ccc/resource/technical/document/data_brief/c8/3c/30/f7/d6/08/4a/26/DM00105918.pdf/files/DM00105918.pdf/jcr:content/translations/en.DM00105918.pdf)<br/>
 [STM32 Nucleo-64 User Manual](https://github.com/user-attachments/files/16553691/dm00105823-stm32-nucleo-64-boards-mb1136-stmicroelectronics.pdf) <br/>
