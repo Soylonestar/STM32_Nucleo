@@ -13,6 +13,8 @@ Pins on the Nucleo_F411RE board: <br/>
 
 IDE: <br/>
 It's recommended to use STM32 Cube IDE becasue of its compatiable environment and complete use of the chip capabilities. <br/>
+8/9/2024 _ Updated: <br/>
+[Adding Necessary Packages for STM32 IDE](https://stackoverflow.com/questions/65905606/stm32cubeide-reports-firmware-package-is-missing) <br/>
 
 CAN BUS stuff: <br/>
 [STM32 CAN Interface](https://www.instructables.com/STM32-CAN-Interface/) <br/>
@@ -21,3 +23,5 @@ CAN BUS stuff: <br/>
 8/9/2024 <br/>
 Voltage Monitor System <br/>
 [ADC Voltage Divider Stuff](https://electronics.stackexchange.com/questions/42710/how-to-read-high-voltages-on-microcontroller) <br/>
+
+
