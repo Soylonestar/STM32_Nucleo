@@ -27,3 +27,7 @@ Voltage Monitor System <br/>
 8/13/2024 <br/>
 Interesting Communication stuff <br/>
 [Do you know what your codes doing](https://mansfield-devine.com/speculatrix/2018/01/do-you-know-what-your-codes-doing/) <br/>
+
+8/15/2024 <br/>
+Here is very intesting code and methods of varying protocols (AVR mostly unfortuneately) <br/>
+[AVR C Library](https://exploreembedded.com/wiki/AVR_C_Library) <br/>
