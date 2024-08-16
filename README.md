@@ -36,3 +36,7 @@ Interesting Communication stuff <br/>
 8/15/2024 <br/>
 Here is very intesting code and methods of varying protocols (AVR mostly unfortuneately) <br/>
 [AVR C Library](https://exploreembedded.com/wiki/AVR_C_Library) <br/>
+
+8/16/2024 <br/>
+LCD Display: <br>
+[LCD Display Tutorial](https://github.com/Dungyichao/STM32F4-LCD_ST7735s/blob/master/README.md#hardware-and-documents-you-need-to-have-) <br/>
