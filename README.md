@@ -30,6 +30,8 @@ Voltage Monitor System <br/>
 [ADC Voltage Divider Stuff](https://electronics.stackexchange.com/questions/42710/how-to-read-high-voltages-on-microcontroller) <br/>
 [Arduino Volt Meter 0-100V DC](https://www.instructables.com/Arduino-Volt-Meter-0-100V-DC-Version-2-better/) <br/>
 
+What is an Active Clamper Circuit?? <br/>
+
 8/13/2024 <br/>
 Interesting Communication stuff <br/>
 [Do you know what your codes doing](https://mansfield-devine.com/speculatrix/2018/01/do-you-know-what-your-codes-doing/) <br/>
