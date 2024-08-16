@@ -40,4 +40,4 @@ Here is very intesting code and methods of varying protocols (AVR mostly unfortu
 
 8/16/2024 <br/>
 LCD Display: <br>
-[LCD Display Tutorial](https://github.com/Dungyichao/STM32F4-LCD_ST7735s/blob/master/README.md#hardware-and-documents-you-need-to-have-) <br/>
+[LCD Display I2C Tutorial](https://deepbluembedded.com/stm32-i2c-lcd-library-example-16x2-20x4-multiple-lcds/#stm32-i2c-lcd) <br/>
