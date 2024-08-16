@@ -28,6 +28,7 @@ CAN BUS stuff: <br/>
 8/9/2024 <br/>
 Voltage Monitor System <br/>
 [ADC Voltage Divider Stuff](https://electronics.stackexchange.com/questions/42710/how-to-read-high-voltages-on-microcontroller) <br/>
+[Arduino Volt Meter 0-100V DC](https://www.instructables.com/Arduino-Volt-Meter-0-100V-DC-Version-2-better/) <br/>
 
 8/13/2024 <br/>
 Interesting Communication stuff <br/>
