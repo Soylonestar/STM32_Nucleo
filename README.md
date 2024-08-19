@@ -44,3 +44,6 @@ Here is very intesting code and methods of varying protocols (AVR mostly unfortu
 LCD Display: <br>
 [LCD Display I2C Tutorial](https://deepbluembedded.com/stm32-i2c-lcd-library-example-16x2-20x4-multiple-lcds/#stm32-i2c-lcd) <br/>
 [PCF8574t datasheet](https://github.com/user-attachments/files/16663021/PCF8574.PDF) <br/>
+
+Update: 8/19/2024 <br/>
+Only took a couple of hours to get the LCD working...<br/>
