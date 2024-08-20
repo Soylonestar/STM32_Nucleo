@@ -20,6 +20,7 @@ IDE: <br/>
 It's recommended to use STM32 Cube IDE becasue of its compatiable environment and complete use of the chip capabilities. <br/>
 8/9/2024 _ Updated: <br/>
 [Adding Necessary Packages for STM32 IDE](https://stackoverflow.com/questions/65905606/stm32cubeide-reports-firmware-package-is-missing) <br/>
+[Code Generation Error Solution](https://community.st.com/t5/stm32cubeide-mcus/code-generation-could-not-be-done-firmware-package-v1-24-1-can/m-p/253098) <br/>
 
 CAN BUS stuff: <br/>
 [STM32 CAN Interface](https://www.instructables.com/STM32-CAN-Interface/) <br/>
