@@ -49,3 +49,13 @@ LCD Display: <br>
 
 Update: 8/19/2024 <br/>
 Only took a couple of hours to get the LCD working...<br/>
+
+9/4/2024 <br/>
+Here are links of the datasheet of the different op amps: <br/>
+[LM358P Datasheet](https://www.alldatasheet.com/html-pdf/158154/TI/LM358P/23/1/LM358P.html) <br/>
+[NTE858M Datasheet](https://www.alldatasheet.com/html-pdf/10825/NTE/NTE858M/46/1/NTE858M.html) <br/>
+[HA17741 Datasheet](https://www.alldatasheet.com/html-pdf/63504/HITACHI/HA17741/497/2/HA17741.html) <br/>
+[NE5532P Datasheet](https://www.alldatasheet.com/html-pdf/27248/TI/NE5532P/73/3/NE5532P.html) <br/>
+[NTE889M Datasheet](https://www.alldatasheet.com/html-pdf/10841/NTE/NTE889M/46/1/NTE889M.html) <br/>
+
+Make sure to like at ChatGPT and Flux.ai for circuit modeling and designing of circuit. <br/>
